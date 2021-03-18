@@ -1,1 +1,2 @@
 # Project-4--CMSC-350
+The fourth programming project involves designing, writing and testing a program that behaves like the Java command line compiler. Whenever we request that the Java compiler recompile a particular class, it not only recompiles that class but every other class that depends upon it, directly or indirectly, and in a particular order. To make the determination about which classes need recompilation, the Java compiler maintains a directed graph of class dependencies
